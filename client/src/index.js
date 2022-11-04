@@ -14,7 +14,7 @@ const store = createStore();
 ReactDOM.render(
     <React.StrictMode>
         <Provider store={store}>
-            <Router history={history}>
+            <Router history={history} basename="/eduProjectSpa">
                 <App />
             </Router>
         </Provider>
