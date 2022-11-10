@@ -19,4 +19,4 @@ This project was created during stydying at Result school
 
 ### Preview
 
-![Preview](public/preview.png)
+![Preview](/preview.png)
